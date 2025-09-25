@@ -69,8 +69,8 @@ const Contact = () => {
                 <div>
                   <h4 className="text-lg font-semibold mb-1">Visit Our Salon</h4>
                   <p className="text-gray-300">
-                    123 Beauty Boulevard<br />
-                    Stylish City, SC 12345
+                    Shop 3 Wattle Grove Plaza Village Way<br />
+                    Wattle Grove NSW, 2173, Australia
                   </p>
                 </div>
               </div>
